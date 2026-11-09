@@ -1,0 +1,133 @@
+{
+  "schema": 2,
+  "date": "2026-11-09",
+  "period": "daily",
+  "languages": [
+    "all"
+  ],
+  "count": 9,
+  "degraded": false,
+  "contentHash": "sha256:38001d873e8c9d7eca30028da9b9f461548e002ad033c1b5b979171368947cf1",
+  "contentHashAlgo": "jcs-sha256-v1",
+  "coreVersion": "0.10.0",
+  "generatedAt": "2026-11-09T08:37:20.3063756Z",
+  "repos": [
+    {
+      "fullName": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "python",
+      "stars": 105214,
+      "starsInPeriod": 2373,
+      "forks": 12243,
+      "rank": 1,
+      "source": "trending-html",
+      "summaryZh": "通过用户名跨社交网络追踪账号归属的开源工具，适用于信息收集与调查场景。",
+      "summarySource": "model"
+    },
+    {
+      "fullName": "dsx-ai-factory/nvke",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "language": "go",
+      "stars": 966,
+      "starsInPeriod": 345,
+      "forks": 113,
+      "rank": 2,
+      "source": "trending-html",
+      "summaryZh": "面向裸金属环境的 GPU Kubernetes 管理平面，简化 GPU 集群的部署与运维。",
+      "summarySource": "model"
+    },
+    {
+      "fullName": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "typescript",
+      "stars": 18923,
+      "starsInPeriod": 1439,
+      "forks": 2607,
+      "rank": 3,
+      "source": "trending-html",
+      "summaryZh": "开源的 Grok Bot 替代方案，内置虚拟机供机器人运行，面向聊天机器人开发者。",
+      "summarySource": "model"
+    },
+    {
+      "fullName": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "language": "python",
+      "stars": 19640,
+      "starsInPeriod": 32,
+      "forks": 3291,
+      "rank": 4,
+      "source": "trending-html",
+      "summaryZh": "面向开发者的 Claude API 快速上手示例集合，帮助快速构建可部署的应用。",
+      "summarySource": "model"
+    },
+    {
+      "fullName": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "rust",
+      "stars": 47982,
+      "starsInPeriod": 815,
+      "forks": 3277,
+      "rank": 5,
+      "source": "trending-html",
+      "summaryZh": "面向 AI 代理的浏览器自动化命令行工具，支持网页操作与任务编排。",
+      "summarySource": "model"
+    },
+    {
+      "fullName": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "typescript",
+      "stars": 17903,
+      "starsInPeriod": 875,
+      "forks": 1400,
+      "rank": 6,
+      "source": "trending-html",
+      "summaryZh": "Meta 出品的开源设计系统，支持深度定制并适配 AI 代理，面向前端团队。",
+      "summarySource": "model"
+    },
+    {
+      "fullName": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "python",
+      "stars": 189983,
+      "starsInPeriod": 792,
+      "forks": 22382,
+      "rank": 7,
+      "source": "trending-html",
+      "summaryZh": "Anthropic 维护的 Agent Skills 公共仓库，为 AI 代理提供可复用能力模块。",
+      "summarySource": "model"
+    },
+    {
+      "fullName": "google-deepmind/mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "language": "c++",
+      "stars": 16637,
+      "starsInPeriod": 41,
+      "forks": 1964,
+      "rank": 8,
+      "source": "trending-html",
+      "summaryZh": "DeepMind 维护的通用物理仿真器，支持多关节接触动力学，面向机器人与强化学习研究。",
+      "summarySource": "model"
+    },
+    {
+      "fullName": "ranxianglei/billion-context",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "language": "typescript",
+      "stars": 5464,
+      "starsInPeriod": 460,
+      "forks": 421,
+      "rank": 9,
+      "source": "trending-html",
+      "summaryZh": "面向长会话的上下文压缩插件，兼容小窗口模型并显著降低 token 消耗。",
+      "summarySource": "model"
+    }
+  ]
+}
